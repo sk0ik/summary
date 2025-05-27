@@ -96,44 +96,16 @@
 |:---:|:---:|
 | ラジアル偏光ビーム | アジマス偏光ビーム |
 
-</br>
-
-| ![GIF1](https://github.com/sk0ik/Vector_Beam/blob/main/GIF/hatena1_polarization.gif) | ![GIF2](https://github.com/sk0ik/Vector_Beam/blob/main/GIF/hatena2_polarization.gif) |
-|:---:|:---:|
-| ? | ?? |
-
 </div>
 
 </br>
 
-上図のようにベクトルビームは電場の振動方向が位置によって異なります.また,上図に示したラジアル偏光やアジマス偏光と呼ばれるベクトルビームは断面内で軸対称になっています.これを軸対称ベクトルビームと言います."?","??"のビームも軸対称ベクトルビームで,名前がついているかもしれませんが自分は知りません.もちろん,軸対称でなくても不一様な偏光分布であればベクトルビームに分類されます.
-
-ここまでの説明ではベクトルビームの偏光状態だけを考えていましたがスカラービームの時のように位相という自由度も考えることができます.もし,ビーム断面の位置で位相が違ってもベクトルビームであることに変わりはありませんが物理的に違った特性を持ちます.
-
-<div align="center">
-
-| ![GIF1](https://github.com/sk0ik/Vector_Beam/blob/main/GIF/radial_polarization_phase1.gif) | ![GIF2](https://github.com/sk0ik/Vector_Beam/blob/main/GIF/radial_polarization_phase2.gif) |
-|:---:|:---:|
-| ラジアル偏光:らせん位相(l=1) | ラジアル偏光:らせん位相(l=-1) |
-
-</div>
-
-</br>
-
-<div align="center">
-
-| ![GIF1](https://github.com/sk0ik/Vector_Beam/blob/main/GIF/radial_polarization_phase3.gif) | ![GIF2](https://github.com/sk0ik/Vector_Beam/blob/main/GIF/radial_polarization_phase4.gif) |
-|:---:|:---:|
-| ラジアル偏光:らせん位相(l=2) | ラジアル偏光:らせん位相(l=-2) |
-
-</div>
-
-上図のように同じ偏光状態でも振動が遅れている部分があることが分かります.
+上図のようにベクトルビームは電場の振動方向が位置によって異なります.また,上図に示したラジアル偏光やアジマス偏光と呼ばれるベクトルビームは断面内で軸対称になっています.これを軸対称ベクトルビームと言います.もちろん,軸対称でなくても不一様な偏光分布であればベクトルビームに分類されます.
 
 ## 実験光学系
 
 <p align="center">
-<img src="https://github.com/sk0ik/Vector_Beam/blob/main/Pic/setup/generate_radial_azimuthal.png" alt="サンプル画像" width="400">
+<img src="https://github.com/sk0ik/Vector_Beam/blob/main/Pic/setup/setup1.png" alt="サンプル画像" width="400">
 </p>
 
 上記の光学系でベクトルビームを生成することができます.偏光状態と位相状態はジョーンズベクトルという形で表現でき,この光学系では
