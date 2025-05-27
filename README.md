@@ -180,6 +180,7 @@ SH sensor(シャックハルトマンセンサー)によって位相を測定し
 
 <p align="center">
 <img src="https://github.com/sk0ik/Vector_Beam/blob/main/zer_bar.png" alt="サンプル画像" width="600">
+  <img src="https://github.com/sk0ik/Vector_Beam/blob/main/zer_table.png" alt="サンプル画像" width="400">
 </p>
 
 <p align="center">
