@@ -153,7 +153,7 @@ $$
 ラジアル偏光ビームをシミュレーションによって生成した結果を示します.
 
 <p align="center">
-<img src="https://github.com/sk0ik/Vector_Beam/blob/main/radial.png" alt="サンプル画像" width="700">
+<img src="https://github.com/sk0ik/Vector_Beam/blob/main/radial_simulation.png" alt="サンプル画像" width="700">
 </p>
 
 上段の左右はそれぞれ左回り円偏光,右回り円偏光の初期振幅,初期位相を表しており下段はそれらをフーリエ変換したものを足し合わせた結果です.矢印はそのビームの偏光状態を表しています.つまり下段の一番左は全光強度,真ん中は+90°に振動する光の光強度を表しています.
