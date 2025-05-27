@@ -10,7 +10,7 @@
 
 <div align="center">
 
-| ![GIF1](https://github.com/sk0ik/Vector_Beam/blob/main/crop_resize_EMwave.gif)|
+| ![GIF1](https://github.com/sk0ik/vector_beam/blob/main/crop_resize_EMwave.gif)|
 |:---:|
 | 光の伝播の様子 |
 
