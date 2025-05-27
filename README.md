@@ -123,3 +123,19 @@ i
 $$
 
 となります. $\delta_1,\delta_2$ はそれぞれSLM1,2によって付与された位相項です.
+
+さらに, $\varphi$ を方位角とし,SLMに
+
+$$
+\delta _ 1=\varphi-\frac{\pi}{2},\delta _ 2=-\varphi
+$$
+
+というホログラムを表示すれば
+
+$$
+E _ {out}=
+\begin{bmatrix}
+\cos{\varphi} \newline
+\sin{\varphi}
+\end{bmatrix}
+$$
