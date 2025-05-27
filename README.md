@@ -179,6 +179,6 @@ $$
 SH sensor(シャックハルトマンセンサー)によって位相を測定しています.ビームの位相を表すのはゼルニケ多項式を用いるのが一般的です.測定した位相をゼルニケ多項式の重ね合わせで表した時の各係数を棒グラフにしたものを以下に示します.
 
 <p align="center">
-<img src="https://github.com/sk0ik/Vector_Beam/blob/main/zer_bar.png" alt="サンプル画像" width="500">
+<img src="https://github.com/sk0ik/Vector_Beam/blob/main/zer_bar.png" alt="サンプル画像" width="900">
 </p>
 
