@@ -236,36 +236,31 @@ SH sensor(シャックハルトマンセンサー)によって位相を測定し
 </div>
 
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
   
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <figure style="margin: 0; text-align: center;">
     <img src="https://github.com/sk0ik/vector_beam/blob/main/10.bmp?raw=true" alt="サンプル画像" width="100">
-    <br>
-    <span>10</span>
-  </div>
-  
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <figcaption>10</figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
     <img src="https://github.com/sk0ik/vector_beam/blob/main/11.bmp?raw=true" alt="サンプル画像" width="100">
-    <br>
-    <span>11</span>
-  </div>
-  
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <figcaption>11</figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
     <img src="https://github.com/sk0ik/vector_beam/blob/main/12.bmp?raw=true" alt="サンプル画像" width="100">
-    <br>
-    <span>12</span>
-  </div>
-  
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <figcaption>12</figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
     <img src="https://github.com/sk0ik/vector_beam/blob/main/14.bmp?raw=true" alt="サンプル画像" width="100">
-    <br>
-    <span>14</span>
-  </div>
-  
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <figcaption>14</figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
     <img src="https://github.com/sk0ik/vector_beam/blob/main/15.bmp?raw=true" alt="サンプル画像" width="100">
-    <br>
-    <span>15</span>
-  </div>
+    <figcaption>15</figcaption>
+  </figure>
   
 </div>
