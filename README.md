@@ -108,7 +108,7 @@
 <img src="https://github.com/sk0ik/Vector_Beam/blob/main/setup1.png" alt="サンプル画像" width="700">
 </p>
 
-上記の光学系でベクトルビームを生成することができます.1台のSLMを左右に分割し,右側をSLM1,左側をSLM2としています.また,$¥theta_1,¥theta_2¥theta_3$をそれぞれHWP2,QWP1,QWP2を回す角度とし,$¥theta_1=¥frac{¥pi}{8},¥theta_2=¥frac{¥pi}{4},¥theta_3=-¥frac{¥pi}{4}$の時,ジョーンズベクトルは
+上記の光学系でベクトルビームを生成することができます.1台のSLMを左右に分割し,右側をSLM1,左側をSLM2としています.また, $¥theta_1,¥theta_2¥theta_3$ をそれぞれHWP2,QWP1,QWP2を回す角度とし, $¥theta_1=¥frac{¥pi}{8},¥theta_2=¥frac{¥pi}{4},¥theta_3=-¥frac{¥pi}{4}$ の時,ジョーンズベクトルは
 
 $$
 E _ {out}=e^{i(¥delta_1+¥frac{¥pi}{2})}
@@ -122,4 +122,4 @@ i
 \end{bmatrix}
 $$
 
-となります.$¥delta_1,¥delta_2$はそれぞれSLM1,2によって付与された位相項です.
+となります. $¥delta_1,¥delta_2$ はそれぞれSLM1,2によって付与された位相項です.
