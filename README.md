@@ -209,7 +209,7 @@ SH sensor(シャックハルトマンセンサー)によって位相を測定し
 偏光状態はかなり理想的なものになりましたが,光強度には偏りがあります.特に+0°偏光成分では左右でかなり光強度に違いがあることがわかるかと思います.これは非点収差以外の収差によるものだと考えられます.例えば非点収差以外の収差が加わることで以下のような悪影響を及ぼします.
 
 <p align="center">
-<img src="https://github.com/sk0ik/Vector_Beam/blob/main/zer_table2.png" alt="サンプル画像" width="700">
+<img src="https://github.com/sk0ik/Vector_Beam/blob/main/zer_table2.png" alt="サンプル画像" width="300">
 </p>
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
