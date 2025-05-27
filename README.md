@@ -190,10 +190,6 @@ SH sensor(シャックハルトマンセンサー)によって位相を測定し
 
 これを踏まえてシミュレーション上でこの非点収差を加えた時にラジアル偏光ビームを生成した結果を示します.
 
-<p align="center">
-<img src="https://github.com/sk0ik/Vector_Beam/blob/main/zer_radial_simulation.png" alt="サンプル画像" width="700">
-</p>
-
 これは実験で得られた結果と似ていることがわかります.つまりこの非点収差をなくすことができれば良いということになります.それを踏まえて実験した結果を以下に示します.
 
 <p align="center">
