@@ -105,7 +105,7 @@
 ## 実験光学系
 
 <p align="center">
-<img src="https://github.com/sk0ik/Vector_Beam/blob/main/setup1.png" alt="サンプル画像" width="400">
+<img src="https://github.com/sk0ik/Vector_Beam/blob/main/setup1.png" alt="サンプル画像" width="700">
 </p>
 
 上記の光学系でベクトルビームを生成することができます.偏光状態と位相状態はジョーンズベクトルという形で表現でき,この光学系では
