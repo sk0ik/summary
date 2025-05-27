@@ -130,7 +130,13 @@ $$
 \delta _ 1=\varphi-\frac{\pi}{2},\delta _ 2=-\varphi
 $$
 
-というホログラムを表示すれば
+というホログラム
+
+<p align="center">
+<img src="https://github.com/sk0ik/Vector_Beam/blob/main/radial_hologram.png" alt="サンプル画像" width="700">
+</p>
+
+を表示すれば
 
 $$
 E _ {out}=
@@ -139,3 +145,7 @@ E _ {out}=
 \sin{\varphi}
 \end{bmatrix}
 $$
+
+というジョーンズベクトルが得られます.これはラジアル偏光ビームと呼ばれています.自分の研究では主にこのラジアル偏光ビームについて考えていきます.
+
+
