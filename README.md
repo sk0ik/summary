@@ -47,7 +47,7 @@
 以下では振動方向を考える際,以下のような方向から光を見るとします.
 
 <p align="center">
-<img src="https://github.com/sk0ik/vector_beam/blob/main/angle.png" alt="サンプル画像" width="600">
+<img src="https://github.com/sk0ik/vector_beam/blob/main/polarization_direction.png" alt="サンプル画像" width="600">
 </p>
 
 +z方向に伝播している光を+z方向から観測します.
