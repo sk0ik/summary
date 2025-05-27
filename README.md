@@ -273,6 +273,8 @@ SH sensor(シャックハルトマンセンサー)によって位相を測定し
     <img src="https://github.com/sk0ik/vector_beam/blob/main/15.bmp?raw=true" alt="サンプル画像" width="100">
     <figcaption>15</figcaption>
   </figure>
+
+  今回補正したのは上図でいう4,6番です.
   
 </div>
 
