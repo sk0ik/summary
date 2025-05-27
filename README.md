@@ -180,10 +180,7 @@ SH sensor(シャックハルトマンセンサー)によって位相を測定し
 
 <p align="center">
 <img src="https://github.com/sk0ik/Vector_Beam/blob/main/zer_bar.png" alt="サンプル画像" width="600">
-  <img src="https://github.com/sk0ik/Vector_Beam/blob/main/zer_table.png" alt="サンプル画像" width="400">
+  <img src="https://github.com/sk0ik/Vector_Beam/blob/main/zer_table.png" alt="サンプル画像" width="300">
 </p>
 
-<p align="center">
-<img src="https://github.com/sk0ik/Vector_Beam/blob/main/zer_table.png" alt="サンプル画像" width="200">
-</p>
-
+左図は各ゼルニケ多項式の係数,右図はそれらの多項式がどのような数式かを表しています.
