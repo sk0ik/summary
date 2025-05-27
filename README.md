@@ -60,7 +60,7 @@
 
 </br>
 
-| ![GIF1](https://github.com/sk0ik/Vector_Beam/blob/main/+45.gif) | ![GIF2](https://github.com/sk0ik/Vector_Beam/blob/main/-45.gif) |
+| ![GIF1](https://github.com/sk0ik/Vector_Beam/blob/main/+45.gif) | ![GIF2](https://github.com/sk0ik/Vector_Beam/blob/main/+135.gif) |
 |:---:|:---:|
 | +45度偏光 | -45度偏光 |
 
