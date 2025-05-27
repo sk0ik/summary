@@ -111,6 +111,14 @@
 上記の光学系でベクトルビームを生成することができます.1台のSLMを左右に分割し,右側をSLM1,左側をSLM2としています.また, $¥theta_1,¥theta_2¥theta_3$ をそれぞれHWP2,QWP1,QWP2を回す角度とし, $¥theta_1=¥frac{¥pi}{8},¥theta_2=¥frac{¥pi}{4},¥theta_3=-¥frac{¥pi}{4}$ の時,ジョーンズベクトルは
 
 $$
+J = J _ {QWP(\theta _ 2)} J _ {SLM} J _ {HWP(\theta _ 1)} J _ {PBS}
+\begin{bmatrix}
+\alpha \newline
+\beta
+\end{bmatrix}
+$$
+
+$$
 E _ {out}=e^{i(¥delta_1+¥frac{¥pi}{2})}
 \begin{bmatrix}
 1 \newline
