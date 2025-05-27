@@ -194,7 +194,7 @@ SH sensor(シャックハルトマンセンサー)によって位相を測定し
 <img src="https://github.com/sk0ik/vector_beam/blob/main/zer_radial_simulatioh.png" alt="サンプル画像" width="700">
 </p>
 
-これは実験で得られた結果と似ていることがわかります.つまりこの非点収差をなくすことができれば良いということになります.それを踏まえて実験した結果を以下に示します.
+これは実験で得られた結果と似ていることがわかります.つまりこの非点収差をなくすことができれば光強度と偏光状態を改善できることが予想されます.それを踏まえて実験した結果を以下に示します.
 
 <p align="center">
 <img src="https://github.com/sk0ik/Vector_Beam/blob/main/zer_radial_experiment.png" alt="サンプル画像" width="700">
