@@ -68,7 +68,7 @@
 
 | ![GIF1](https://github.com/sk0ik/vector_beam/blob/main/lcp.gif) | ![GIF2](https://github.com/sk0ik/vector_beam/blob/main/rcp.gif) |
 |:---:|:---:|
-| 右回り円偏光 | 左回り円度偏光 |
+| 左回り円偏光 | 右回り円度偏光 |
 
 </div>
 
