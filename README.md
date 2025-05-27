@@ -180,7 +180,22 @@ SH sensor(シャックハルトマンセンサー)によって位相を測定し
 
 <p align="center">
 <img src="https://github.com/sk0ik/Vector_Beam/blob/main/zer_bar.png" alt="サンプル画像" width="600">
-  <img src="https://github.com/sk0ik/Vector_Beam/blob/main/zer_table.png" alt="サンプル画像" width="300">
+<img src="https://github.com/sk0ik/Vector_Beam/blob/main/zer_table.png" alt="サンプル画像" width="300">
 </p>
 
-左図は各ゼルニケ多項式の係数,右図はそれらの多項式がどのような数式かを表しています.
+左図は各ゼルニケ多項式の係数,右図はそれらの多項式がどのような数式かを表しています.一般にはこの余計な位相は収差と呼ばれています.
+
+ここで今考えているのはビームの形状ですので1番のピストン,2,3番のティルト,5番の球面収差は考えなくて良いです.そのように考えると4,6番の収差の影響が強いことがわかります.この収差は非点収差(astigmatism)と呼ばれており
+その名の通り光が1点に集まらないという悪影響を及ぼします.
+
+これを踏まえてシミュレーション上でこの非点収差を加えた時にラジアル偏光ビームを生成した結果を示します.
+
+<p align="center">
+<img src="https://github.com/sk0ik/Vector_Beam/blob/main/zer_radial_simulation.png" alt="サンプル画像" width="700">
+</p>
+
+これは実験で得られた結果と似ていることがわかります.つまりこの非点収差をなくすことができれば良いということになります.それを踏まえて実験した結果を以下に示します.
+
+<p align="center">
+<img src="https://github.com/sk0ik/Vector_Beam/blob/main/zer_radial_experiment.png" alt="サンプル画像" width="700">
+</p>
