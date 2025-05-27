@@ -108,105 +108,18 @@
 <img src="https://github.com/sk0ik/Vector_Beam/blob/main/setup1.png" alt="サンプル画像" width="700">
 </p>
 
-上記の光学系でベクトルビームを生成することができます.偏光状態と位相状態はジョーンズベクトルという形で表現でき,この光学系では
+上記の光学系でベクトルビームを生成することができます.1台のSLMを左右に分割し,右側をSLM1,左側をSLM2としています.また,$¥theta _ 1,¥theta _ 2¥theta _ 3$をそれぞれHWP2,QWP1,QWP2を回す角度とし,$¥theta _ 1=¥frac{¥pi}{8},¥theta _ 2=¥frac{¥pi}{4},¥theta _ 3=-¥frac{¥pi}{4}$の時,ジョーンズベクトルは
 
 $$
-J = J _ {QWP(\theta _ 2)} J _ {SLM} J _ {HWP(\theta _ 1)} J _ {PBS}
+E _ {out}=e^{i(¥delta _ 1+¥frac{¥pi}{2})}
 \begin{bmatrix}
-\alpha \newline
-\beta
+1 \newline
+-i
+\end{bmatrix}+e^{i¥delta _ 2}
+\begin{bmatrix}
+1 \newline
+i
 \end{bmatrix}
 $$
 
-$$
-\begin{aligned}
-J &= 
-  \begin{bmatrix}
-    1 - i\cos{2\theta _ 2} & -i\sin{2\theta _ 2} \newline
-    -i\sin{2\theta _ 2} & 1 + i\cos{2\theta _ 2}
-  \end{bmatrix}
-  \begin{bmatrix}
-    -e^{i\delta} & 0 \newline
-    0 & 1
-  \end{bmatrix}
-  \begin{bmatrix}
-    \cos{2\theta _ 1} & \sin{2\theta _ 1} \newline
-    \sin{2\theta _ 1} & -\cos{2\theta _ 1}
-  \end{bmatrix}
-  \begin{bmatrix}
-    1 & 0 \newline
-    0 & 0
-  \end{bmatrix}
-  \begin{bmatrix}
-    \alpha \newline
-    \beta
-  \end{bmatrix} \newline
-  &=
-  \begin{bmatrix}
-    1 - i\cos{2\theta _ 2} & -i\sin{2\theta _ 2} \newline
-    -i\sin{2\theta _ 2} & 1 + i\cos{2\theta _ 2}
-  \end{bmatrix}
-  \begin{bmatrix}
-    -e^{i\delta} & 0 \newline
-    0 & 1
-  \end{bmatrix}
-  \begin{bmatrix}
-    \cos{2\theta _ 2} & \sin{2\theta _ 2} \newline
-    \sin{2\theta _ 2} & -\cos{2\theta _ 2}
-  \end{bmatrix}
-  \begin{bmatrix}
-    \alpha \newline
-    0
-  \end{bmatrix} \newline
-&\propto
-  \begin{bmatrix}
-    1 - i\cos{2\theta _ 2} & -i\sin{2\theta _ 2} \newline
-    -i\sin{2\theta _ 2} & 1 + i\cos{2\theta _ 2}
-  \end{bmatrix}
-  \begin{bmatrix}
-    -e^{i\delta} & 0 \newline
-    0 & 1
-  \end{bmatrix}
-  \begin{bmatrix}
-    \cos{2\theta _ 1} \newline
-    \sin{2\theta _ 1}
-  \end{bmatrix} \newline
-&=
-  \begin{bmatrix}
-    1 - i\cos{2\theta _ 2} & -i\sin{2\theta _ 2} \newline
-    -i\sin{2\theta _ 2} & 1 + i\cos{2\theta _ 2}
-  \end{bmatrix}
-  \begin{bmatrix}
-    -e^{i\delta}\cos{2\theta _ 1} \newline
-    \sin{2\theta _ 1}
-  \end{bmatrix} \newline
-\therefore J &\propto
-  \begin{bmatrix}
-    -e^{i\delta}\cos{2\theta _ 1}(1 - i\cos{2\theta _ 2})-i\sin{2\theta _ 1}\sin{2\theta _ 2} \newline
-    -ie^{i\delta}\cos{2\theta _ 1}\sin{2\theta _ 2}-\sin{2\theta _ 1}(1+\cos{2\theta _ 2})
-  \end{bmatrix}
-\end{aligned}
-$$
-
-PBSによって入射ビームのx偏光ビームを取り出しています.また
-
-- $\theta _ 1:$ 1/2波長板を回す角度
-- $\theta _ 2:$ 1/4波長板を回す角度
-
-です.例えば
-
-$$
-\theta _ 1=\frac{\pi}{8}, \theta _ 2=\frac{\pi}{4}, \delta =2\bigl(\varphi+\frac{\pi}{4}\bigr)
-$$
-
-であれば先ほどGIFで示したラジアル偏光ビームを生成できます.また
-
-$$
-\theta _ 1=\frac{\pi}{8}, \theta _ 2=\frac{\pi}{4}, \delta =2\bigl(\varphi-\frac{\pi}{4}\bigr)
-$$
-
-であれば先ほどGIFで示したアジマス偏光ビームを生成できます.
-
-## まとめ
-
-上記で説明したような不一様な偏光状態,位相状態をSLMを用いて高精度に生成する研究をしています.実験がメインですが理論的な理解をしたうえで実験結果を考察し,誤差や失敗の原因を探るような研究をすることを心がけています.
+となります.$¥delta _ 1,¥delta _ 2$はそれぞれSLM1,2によって付与された位相項です.
