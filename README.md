@@ -284,5 +284,7 @@ SH sensor(シャックハルトマンセンサー)によって位相を測定し
 
 <p align="center">
 <img src="https://github.com/sk0ik/Vector_Beam/blob/main/setup3.png" alt="サンプル画像" width="500">
-<img src="https://github.com/sk0ik/Vector_Beam/blob/main/real_setup3.png" alt="サンプル画像" width="500">
+<img src="https://github.com/sk0ik/Vector_Beam/blob/main/real_setup3.png" alt="サンプル画像" width="300">
 </p>
+
+これはSLMに垂直にビームが入射しており,かつ,SLM1,2間も4f光学系により結像関係にあるので回折伝播もしていないです.よってこの状況を基準にし,回折はさせずに斜めに入射させたり,垂直に入射させるが回折は起こる,のような状況での実験を行いたいと考えています.
