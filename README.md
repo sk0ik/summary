@@ -209,13 +209,32 @@ SH sensor(シャックハルトマンセンサー)によって位相を測定し
 偏光状態はかなり理想的なものになりましたが,光強度には偏りがあります.特に+0°偏光成分では左右でかなり光強度に違いがあることがわかるかと思います.これは非点収差以外の収差によるものだと考えられます.例えば非点収差以外の収差が加わることで以下のような悪影響を及ぼします.
 
 <p align="center">
-<img src="https://github.com/sk0ik/vector_beam/blob/main/normal.bmp" alt="サンプル画像" width="100">
-<img src="https://github.com/sk0ik/vector_beam/blob/main/4.bmp" alt="サンプル画像" width="100">
-<img src="https://github.com/sk0ik/vector_beam/blob/main/6.bmp" alt="サンプル画像" width="100">
-<img src="https://github.com/sk0ik/vector_beam/blob/main/7.bmp" alt="サンプル画像" width="100">
-<img src="https://github.com/sk0ik/vector_beam/blob/main/8.bmp" alt="サンプル画像" width="100">
-<img src="https://github.com/sk0ik/vector_beam/blob/main/9.bmp" alt="サンプル画像" width="100">
+  <div style="display: inline-block; text-align: center; margin: 5px;">
+    <img src="https://github.com/sk0ik/vector_beam/blob/main/normal.bmp" alt="画像1" width="100"><br>
+    <span>1</span>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 5px;">
+    <img src="https://github.com/sk0ik/vector_beam/blob/main/4.bmp" alt="画像2" width="100"><br>
+    <span>2</span>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 5px;">
+    <img src="https://github.com/sk0ik/vector_beam/blob/main/6.bmp" alt="画像3" width="100"><br>
+    <span>3</span>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 5px;">
+    <img src="https://github.com/sk0ik/vector_beam/blob/main/7.bmp" alt="画像4" width="100"><br>
+    <span>4</span>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 5px;">
+    <img src="https://github.com/sk0ik/vector_beam/blob/main/8.bmp" alt="画像5" width="100"><br>
+    <span>5</span>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 5px;">
+    <img src="https://github.com/sk0ik/vector_beam/blob/main/9.bmp" alt="画像6" width="100"><br>
+    <span>6</span>
+  </div>
 </p>
+
 
 <p align="center">
 <img src="https://github.com/sk0ik/vector_beam/blob/main/10.bmp" alt="サンプル画像" width="100">
