@@ -30,7 +30,7 @@
 
 のような自由度があります.自分はこの中でも光の振動方向を考える **偏光** という分野について研究をしています.例えば上記で挙げた自由度は以下のような光を考えることに対応しています.
 
-| ![GIF1](https://github.com/sk0ik/Vector_Beam/blob/main/Ewave_normal.gif) | ![GIF2](https://github.com/sk0ik/Vector_Beam/blob/main/Ewave_amp.gif) | ![GIF3](https://github.com/sk0ik/Vector_Beam/blob/main/Ewave_phase.gif) | ![GI43](https://github.com/sk0ik/Vector_Beam/blob/main/Ewave_freq.gif) |
+| ![GIF1](https://github.com/sk0ik/vector_beam/blob/main/Ewave_normal.gif) | ![GIF2](https://github.com/sk0ik/vector_beam/blob/main/Ewave_amp.gif) | ![GIF3](https://github.com/sk0ik/vector_beam/blob/main/Ewave_phase.gif) | ![GI43](https://github.com/sk0ik/vector_beam/blob/main/Ewave_freq.gif) |
 |:---:|:---:|:---:|:---:|
 | 元の電場 | 振幅が大きくなったもの | 位相が進んだもの | (時間もしくは空間)周波数が大きくなったもの |
 
@@ -54,19 +54,19 @@
 
 <div align="center">
 
-| ![GIF1](https://github.com/sk0ik/Vector_Beam/blob/main/+0.gif) | ![GIF2](https://github.com/sk0ik/Vector_Beam/blob/main/+90.gif) |
+| ![GIF1](https://github.com/sk0ik/vector_beam/blob/main/+0.gif) | ![GIF2](https://github.com/sk0ik/vector_beam/blob/main/+90.gif) |
 |:---:|:---:|
 | +0度偏光 | +90度偏光 |
 
 </br>
 
-| ![GIF1](https://github.com/sk0ik/Vector_Beam/blob/main/+45.gif) | ![GIF2](https://github.com/sk0ik/Vector_Beam/blob/main/+135.gif) |
+| ![GIF1](https://github.com/sk0ik/vector_beam/blob/main/+45.gif) | ![GIF2](https://github.com/sk0ik/vector_beam/blob/main/+135.gif) |
 |:---:|:---:|
 | +45度偏光 | -45度偏光 |
 
 </br>
 
-| ![GIF1](https://github.com/sk0ik/Vector_Beam/blob/main/lcp.gif) | ![GIF2](https://github.com/sk0ik/Vector_Beam/blob/main/rcp.gif) |
+| ![GIF1](https://github.com/sk0ik/vector_beam/blob/main/lcp.gif) | ![GIF2](https://github.com/sk0ik/vector_beam/blob/main/rcp.gif) |
 |:---:|:---:|
 | 右回り円偏光 | 左回り円度偏光 |
 
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-| ![GIF1](https://github.com/sk0ik/Vector_Beam/blob/main/radial.gif) | ![GIF2](https://github.com/sk0ik/Vector_Beam/blob/main/azimuthal.gif) |
+| ![GIF1](https://github.com/sk0ik/vector_beam/blob/main/radial.gif) | ![GIF2](https://github.com/sk0ik/vector_beam/blob/main/azimuthal.gif) |
 |:---:|:---:|
 | ラジアル偏光ビーム | アジマス偏光ビーム |
 
