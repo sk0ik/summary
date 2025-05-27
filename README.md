@@ -165,3 +165,5 @@ $$
 <p align="center">
 <img src="https://github.com/sk0ik/Vector_Beam/blob/main/radial_experiment.png" alt="サンプル画像" width="700">
 </p>
+
+のような結果となります.明らかに違うことがわかります.全体的に像がぼやけており偏光状態も特に+45°,-45°の成分が全く一致していないことがわかります.
