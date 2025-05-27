@@ -60,7 +60,7 @@
 <img src="https://github.com/sk0ik/vector_beam/blob/main/polarization_direction.png" alt="サンプル画像" width="600">
 </p>
 
-+z方向に伝播している光を+z方向から観測します.
++z方向に伝播している光を+z方向から観測します.振動方向という幾何学的な話なので見る方向を指定しないと状態が変わってしまうためです.
 
 ## スカラービーム
 
